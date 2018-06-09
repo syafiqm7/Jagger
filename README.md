@@ -3,15 +3,21 @@ Tutorial For Termux Banner
 ===========================
 
 Installation Step :
+======================
+1.apt install ruby -y
 
-1.git clone https://github.com/Bhai4You/Termux-Banner
+2.apt install cowsay -y
 
-2.cd Termux-Banner
+3.apt install figlet -y
 
-3.chmod +x requirement.sh
+4.gem install lolcat
 
-4.chmod +x 't-ban.sh'
+5.git clone https://github.com/syafiqm7/Jagger.git
 
-5.bash requirement.sh
+6.cd Termux-Banner
 
-6.bash 't-ban.sh'
+7.chmod +x 't ban.sh
+
+8.bash 't ban.sh'
+
+It Didn't work if you changed the interface.

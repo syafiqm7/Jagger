@@ -10,7 +10,6 @@ figlet Basic Installation
 apt install cowsay -y
 apt install nano -y
 apt install ruby -y
-apt install screenfetch -y
 gem install lolcat
 figlet -f big Done !!! | lolcat
 echo
@@ -21,6 +20,6 @@ echo
 echo
 clear 
 cowsay -f eyes WELCOME HACKER!|lolcat
-screenfetch|lolcat
+figlet HackMe|lolcat
 date|lolcat
 

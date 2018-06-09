@@ -17,4 +17,4 @@ Installation Step :
 
 8.bash 't ban.sh'
 
-It Didn't work if you changed the interface.
+It Didn't work if you already changed the interface.

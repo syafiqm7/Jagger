@@ -13,7 +13,7 @@ Installation Step :
 
 6.cd Termux-Banner
 
-7.chmod +x 't ban.sh
+7.chmod +x 't ban.sh'
 
 8.bash 't ban.sh'
 

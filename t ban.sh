@@ -19,3 +19,8 @@ echo
 echo -e "\e[1m\e[32m Developed by :\e[33m XANDER (8h4i)"
 echo
 echo
+clear 
+cowsay -f eyes WELCOME HACKER!|lolcat
+screenfetch|lolcat
+date|lolcat
+

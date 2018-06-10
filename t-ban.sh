@@ -14,7 +14,7 @@ gem install lolcat
 figlet -f big Done !!! | lolcat
 echo
 echo -e "\e[1m Now Run \e[32mbash "t-ban.sh"\e[0m...!!!"
-echo -e $yellow "\e[1m developed by:syafiqm7
+echo
 echo 
 echo
 echo
